@@ -1,7 +1,10 @@
 # Vector and Matrix Education Project
 
-Read first license.txt and Authors.txt
+## License agriment
+Перед початком роботи прочитайте [License agriment](license.txt)
 
+## Author information
+Інформацію про авторі вможна знайти [тут](Authors.txt)
 
 ## Умова задачі
 
